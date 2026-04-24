@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Local outputs
+/tmp/
+*.csv
+forecast_metrics.json
+dist/
+*.skill
+
+# IDE
+.idea/
+.vscode/
